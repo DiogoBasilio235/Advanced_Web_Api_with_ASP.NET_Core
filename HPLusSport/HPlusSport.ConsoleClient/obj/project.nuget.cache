@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LdCD+HDEsZ8573RgTvyhNdwWc0YA9lUUF8cM1ZKwGKjmcRWyyyJMS08IbPzapaOmvkv83WzeGGLJtn+QRBsluQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\salgado\\source\\repos\\Advanced Web API ASP.Net Core\\Advanced_Web_Api_with_ASP.NET_Core\\HPLusSport\\HPlusSport.ConsoleClient\\HPlusSport.ConsoleClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\salgado\\.nuget\\packages\\identitymodel\\6.1.0\\identitymodel.6.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

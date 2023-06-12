@@ -1,0 +1,17 @@
+C:\Users\salgado\source\repos\Advanced Web API ASP.Net Core\Advanced_Web_Api_with_ASP.NET_Core\HPLusSport\HPlusSport.ConsoleClient\bin\Debug\net6.0\HPlusSport.ConsoleClient.exe
+C:\Users\salgado\source\repos\Advanced Web API ASP.Net Core\Advanced_Web_Api_with_ASP.NET_Core\HPLusSport\HPlusSport.ConsoleClient\bin\Debug\net6.0\HPlusSport.ConsoleClient.deps.json
+C:\Users\salgado\source\repos\Advanced Web API ASP.Net Core\Advanced_Web_Api_with_ASP.NET_Core\HPLusSport\HPlusSport.ConsoleClient\bin\Debug\net6.0\HPlusSport.ConsoleClient.runtimeconfig.json
+C:\Users\salgado\source\repos\Advanced Web API ASP.Net Core\Advanced_Web_Api_with_ASP.NET_Core\HPLusSport\HPlusSport.ConsoleClient\bin\Debug\net6.0\HPlusSport.ConsoleClient.dll
+C:\Users\salgado\source\repos\Advanced Web API ASP.Net Core\Advanced_Web_Api_with_ASP.NET_Core\HPLusSport\HPlusSport.ConsoleClient\bin\Debug\net6.0\HPlusSport.ConsoleClient.pdb
+C:\Users\salgado\source\repos\Advanced Web API ASP.Net Core\Advanced_Web_Api_with_ASP.NET_Core\HPLusSport\HPlusSport.ConsoleClient\bin\Debug\net6.0\IdentityModel.dll
+C:\Users\salgado\source\repos\Advanced Web API ASP.Net Core\Advanced_Web_Api_with_ASP.NET_Core\HPLusSport\HPlusSport.ConsoleClient\obj\Debug\net6.0\HPlusSport.ConsoleClient.csproj.AssemblyReference.cache
+C:\Users\salgado\source\repos\Advanced Web API ASP.Net Core\Advanced_Web_Api_with_ASP.NET_Core\HPLusSport\HPlusSport.ConsoleClient\obj\Debug\net6.0\HPlusSport.ConsoleClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salgado\source\repos\Advanced Web API ASP.Net Core\Advanced_Web_Api_with_ASP.NET_Core\HPLusSport\HPlusSport.ConsoleClient\obj\Debug\net6.0\HPlusSport.ConsoleClient.AssemblyInfoInputs.cache
+C:\Users\salgado\source\repos\Advanced Web API ASP.Net Core\Advanced_Web_Api_with_ASP.NET_Core\HPLusSport\HPlusSport.ConsoleClient\obj\Debug\net6.0\HPlusSport.ConsoleClient.AssemblyInfo.cs
+C:\Users\salgado\source\repos\Advanced Web API ASP.Net Core\Advanced_Web_Api_with_ASP.NET_Core\HPLusSport\HPlusSport.ConsoleClient\obj\Debug\net6.0\HPlusSport.ConsoleClient.csproj.CoreCompileInputs.cache
+C:\Users\salgado\source\repos\Advanced Web API ASP.Net Core\Advanced_Web_Api_with_ASP.NET_Core\HPLusSport\HPlusSport.ConsoleClient\obj\Debug\net6.0\HPlusSport.ConsoleClient.csproj.CopyComplete
+C:\Users\salgado\source\repos\Advanced Web API ASP.Net Core\Advanced_Web_Api_with_ASP.NET_Core\HPLusSport\HPlusSport.ConsoleClient\obj\Debug\net6.0\HPlusSport.ConsoleClient.dll
+C:\Users\salgado\source\repos\Advanced Web API ASP.Net Core\Advanced_Web_Api_with_ASP.NET_Core\HPLusSport\HPlusSport.ConsoleClient\obj\Debug\net6.0\refint\HPlusSport.ConsoleClient.dll
+C:\Users\salgado\source\repos\Advanced Web API ASP.Net Core\Advanced_Web_Api_with_ASP.NET_Core\HPLusSport\HPlusSport.ConsoleClient\obj\Debug\net6.0\HPlusSport.ConsoleClient.pdb
+C:\Users\salgado\source\repos\Advanced Web API ASP.Net Core\Advanced_Web_Api_with_ASP.NET_Core\HPLusSport\HPlusSport.ConsoleClient\obj\Debug\net6.0\HPlusSport.ConsoleClient.genruntimeconfig.cache
+C:\Users\salgado\source\repos\Advanced Web API ASP.Net Core\Advanced_Web_Api_with_ASP.NET_Core\HPLusSport\HPlusSport.ConsoleClient\obj\Debug\net6.0\ref\HPlusSport.ConsoleClient.dll
